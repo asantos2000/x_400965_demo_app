@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "x_400965_demo_app_table",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-05 17:55:33",
+  "sys_id": "a06c6740dbf333006a6ad001cf961983",
+  "sys_mod_count": 0,
+  "sys_name": "x_400965_demo_app_table",
+  "sys_package": "586c6340dbf333006a6ad001cf961922",
+  "sys_policy": null,
+  "sys_scope": "586c6340dbf333006a6ad001cf961922",
+  "sys_update_name": "ua_table_licensing_config_a06c6740dbf333006a6ad001cf961983",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-05 17:55:33"
+}
