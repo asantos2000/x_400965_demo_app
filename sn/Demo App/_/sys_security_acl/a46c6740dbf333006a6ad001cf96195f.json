@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_400965_demo_app_table",
+  "name": "x_400965_demo_app_table",
+  "operation": "delete",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-05 17:55:32",
+  "sys_id": "a46c6740dbf333006a6ad001cf96195f",
+  "sys_mod_count": 0,
+  "sys_name": "x_400965_demo_app_table",
+  "sys_package": "586c6340dbf333006a6ad001cf961922",
+  "sys_policy": null,
+  "sys_scope": "586c6340dbf333006a6ad001cf961922",
+  "sys_update_name": "sys_security_acl_a46c6740dbf333006a6ad001cf96195f",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-05 17:55:32",
+  "type": "record"
+}
